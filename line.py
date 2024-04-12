@@ -13,11 +13,11 @@ def line():
     El coeficiente X2 de su ecuación de la recta es: {x2}
     
     Para la siguiente ecuación:
-            Y = {A}x + {B}
+    \tY = {A}x + {B}
     
     Dados los siguientes puntos:
-            P1 ({x1}, {y1})
-            P2 ({x2}, {y2})
+    \tP1 ({x1}, {y1})
+    \tP2 ({x2}, {y2})
     
     La distancia entre ellos es: {math.dist([x1, y1], [x2, y2])}
     """)

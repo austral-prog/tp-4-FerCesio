@@ -1,7 +1,7 @@
 def line():
     import math
-    A = float(input("Ingrese el coeficiente a: "))
-    B = float(input("Ingrese el coeficiente b: "))
+    A = float(input("Ingrese el coeficiente A: "))
+    B = float(input("Ingrese el coeficiente B: "))
     x1 = float(input("Ingrese el coeficiente X1: "))
     x2 = float(input("Ingrese el coeficiente X2: "))
     y1 = float(A*x1+B)
